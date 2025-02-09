@@ -5,7 +5,7 @@ This project is a machine learning-based gender classification system that predi
 <h3>Prerequisites</h3>
 <p>Make sure you have <strong>Python 3.x</strong> installed. If not, download it from <a href="https://www.python.org/downloads/">Python Official Website</a>.</p>
 
-<h4>Step 1:Install Python  </h4>
+<h4>Step 1: Install Python  </h4>
 <pre>
   
 <h3>Step 2: Create a Virtual Environment (Optional but Recommended)</h3>
